@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\models\\peticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\models\\peticion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\models\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\models\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\controllers\\peticioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\controllers\\peticioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\migrations\\20260402225533_primeram1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\migrations\\20260402225533_primeram1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\backent1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\backent1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|c:\\users\\auser\\onedrive\\documentos\\materia\\tegnologia web\\proyecto por partes\\datos estaticos\\backent1\\backent1\\backent1\\migrations\\20260405215331_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7440DCE-560E-1604-881B-9746C4C53FF9}|Backent1\\Backent1.csproj|solutionrelative:backent1\\migrations\\20260405215331_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Backent1\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Producto.cs",
+              "RelativeToolTip": "Backent1\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:06:16.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Peticion.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Peticion.cs",
+              "RelativeDocumentMoniker": "Backent1\\Models\\Peticion.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Peticion.cs",
+              "RelativeToolTip": "Backent1\\Models\\Peticion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:08:44.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Backent1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\User.cs",
+              "RelativeToolTip": "Backent1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:44:20.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrabajadorController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\TrabajadorController.cs",
+              "RelativeDocumentMoniker": "Backent1\\Controllers\\TrabajadorController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\TrabajadorController.cs",
+              "RelativeToolTip": "Backent1\\Controllers\\TrabajadorController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:54:10.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backent1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backent1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:50:58.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Trabajador.cs",
+              "RelativeDocumentMoniker": "Backent1\\Models\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Trabajador.cs",
+              "RelativeToolTip": "Backent1\\Models\\Trabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:08:15.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Backent1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Cliente.cs",
+              "RelativeToolTip": "Backent1\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:07:59.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Backent1\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Categoria.cs",
+              "RelativeToolTip": "Backent1\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:06:48.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "Backent1\\Models\\Area.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Models\\Area.cs",
+              "RelativeToolTip": "Backent1\\Models\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:05:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Backent1\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Backent1\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T01:52:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Backent1\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Backent1\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:53:29.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeticionController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\PeticionController.cs",
+              "RelativeDocumentMoniker": "Backent1\\Controllers\\PeticionController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\PeticionController.cs",
+              "RelativeToolTip": "Backent1\\Controllers\\PeticionController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:53:12.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Backent1\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Backent1\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:52:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AreaController.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\AreaController.cs",
+              "RelativeDocumentMoniker": "Backent1\\Controllers\\AreaController.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Controllers\\AreaController.cs",
+              "RelativeToolTip": "Backent1\\Controllers\\AreaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIAwwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:51:38.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Backent1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Backent1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:13:58.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Program.cs",
+              "RelativeDocumentMoniker": "Backent1\\Program.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Program.cs",
+              "RelativeToolTip": "Backent1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:25:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260405215331_m2.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Migrations\\20260405215331_m2.cs",
+              "RelativeDocumentMoniker": "Backent1\\Migrations\\20260405215331_m2.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Migrations\\20260405215331_m2.cs",
+              "RelativeToolTip": "Backent1\\Migrations\\20260405215331_m2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T21:53:31.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backent1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\appsettings.Development.json",
+              "RelativeToolTip": "Backent1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T22:40:16.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260402225533_primeram1.cs",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Migrations\\20260402225533_primeram1.cs",
+              "RelativeDocumentMoniker": "Backent1\\Migrations\\20260402225533_primeram1.cs",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Migrations\\20260402225533_primeram1.cs",
+              "RelativeToolTip": "Backent1\\Migrations\\20260402225533_primeram1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:55:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Backent1.csproj",
+              "DocumentMoniker": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Backent1.csproj",
+              "RelativeDocumentMoniker": "Backent1\\Backent1.csproj",
+              "ToolTip": "C:\\Users\\auser\\OneDrive\\Documentos\\materia\\Tegnologia Web\\Proyecto Por Partes\\Datos estaticos\\Backent1\\Backent1\\Backent1\\Backent1.csproj",
+              "RelativeToolTip": "Backent1\\Backent1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T20:42:41.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
